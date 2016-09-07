@@ -1,0 +1,21 @@
+exports[`array should match snapshot 1`] = `
+Array [
+  "hello hello",
+  1234,
+  Object {
+    "foo": "bar"
+  }
+]
+`;
+
+exports[`func should match snapshot 1`] = `[Function func]`;
+
+exports[`number should match snapshot 1`] = `1234`;
+
+exports[`object should match snapshot 1`] = `
+Object {
+  "foo": "bar"
+}
+`;
+
+exports[`text should match snapshot 1`] = `"hello hello"`;
